@@ -3,7 +3,7 @@
 
 To Run the code <br />
 cargo build <br />
-cargo run -- ${csv file} > output.csv <br />
+cargo run -- ${csv file} > account.csv <br />
 
 
 Input file should be comma separted. Whitespaces are accepted by the application. 
