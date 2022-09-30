@@ -17,3 +17,5 @@ Assumptions Made
 - Regarding the available, held and total balance changes I have followed the question.
 
 
+Code Analysis 
+- The core functionality is present in main.rs, I have used a entity class Client.
